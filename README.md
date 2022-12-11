@@ -7,3 +7,5 @@ e.g.     pool.py c036087bef7f12da0136d411716411de907108122c4e6ba1821d300e4a3365b
 
 Leads to a result like this: 
 ![image](https://user-images.githubusercontent.com/89484281/206896838-5e4184cf-db06-4364-ac5f-204b8f1b38bc.png)
+
+TODO: check/solve edge-case failure scenarios; either remove loop entirely or weight found addresses somehow (currently, we only grab the last good value)
